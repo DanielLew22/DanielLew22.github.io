@@ -1,6 +1,7 @@
 # INTRO TO WEB DEVLOPMENT NOTES FOR STUFF!!!
 
 *the world wide web is everywhere and we use it all the time
+
 *In this class we will be learning how to do front end code rather than dealing with the server direcly 
 
 Here is the link to the canvas page! [canvas page](https://snow.instructure.com/courses/854118)

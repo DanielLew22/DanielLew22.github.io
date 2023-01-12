@@ -5,6 +5,6 @@
 
 Here is the link to the canvas page! [canvas page](https://snow.instructure.com/courses/854118)
 
-\\\html
+\\\
 <a href= "www.snow.edu">snow</a>
 \\\
